@@ -26,19 +26,19 @@ Certifique-se que seu computador tem os softwares:
 
 #### Clone do Projeto
 
-Baixe ou faça o clone do repositorio:
+Baixe ou faça o clone do repositório:
 
 `git clone https://github.com/cirojales/crud-gerenciamento-escolar`
 
-Após isso, entre no diretorio que foi gerado
+Após isso, entre no diretório que foi gerado
 
 `crud-gerenciamento-escolar`
 e
 
 #### Habilitar as extensões do PHP
 
-- abra o diretório de instalação do PHP, encontro o arquivo _php.ini-production_,
-  renomei-o para _php.ini_ e abra-o com algum editor de texto.
+- abra o diretório de instalação do PHP, encontre o arquivo _php.ini-production_,
+  renomeie-o para _php.ini_ e abra-o com algum editor de texto.
 
 Encontre as seguintes linhas e remova o _;_ que o precede a linha.
 
@@ -49,7 +49,7 @@ Encontre as seguintes linhas e remova o _;_ que o precede a linha.
 
 #### Instalar as dependências
 
-- Dentro do diretório da aplicação execute no terminal:
+- Dentro do diretório da aplicação, execute no terminal:
 
 `composer install`
 
@@ -57,7 +57,7 @@ Certifique-se que um diretório chamado **/vendor** foi criado.
 
 ### Banco de dados
 
-> > > O Banco de dados é do tipo relacional e contém as tableas com até 2 niveis de normalização.
+> > > O Banco de dados é do tipo relacional e contém as tabelas com até 2 níveis de normalização.
 
 #### Criação do banco de dados
 
