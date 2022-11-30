@@ -1,6 +1,6 @@
 # CRUD DE ESCOLAS
 
-Aplicação Web do tipo monolitica criada com
+Aplicação Web do tipo monolítica criada com
 
 - PHP para o backend ^7.4
 - HTML, CSS e Javascript pro frontend
@@ -8,15 +8,15 @@ Aplicação Web do tipo monolitica criada com
 
 ## Funcionalidades
 
-- CRUD de Aunos
-- CRUD de Usuarios
+- CRUD de Alunos
+- CRUD de Usuários
 - CRUD de Professores
 - CRUD de Categorias
 - CRUD de Cursos
 
 ## Passo a Passo para rodar o projeto
 
-Certifique-se que seu computador tem os softwars:
+Certifique-se que seu computador tem os softwares:
 
 - PHP
 - MySQL ou Maria DB
@@ -101,6 +101,6 @@ isso criará um usuário com as Credenciais:
 ### Executando a aplicação
 
 para executar e testar a aplicação, dentro do terminal execute:
-`php -S locahost:8000 -t public`
+`php -S localhost:8000 -t public`
 
 Agora acesse o endereço <link>http//localhost:8000</link> em seu navegador
