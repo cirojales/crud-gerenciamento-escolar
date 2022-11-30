@@ -32,7 +32,7 @@ Baixe ou faça o clone do repositorio:
 
 Após isso, entre no diretorio que foi gerado
 
-`crud-php-escola`
+`crud-gerenciamento-escolar`
 e
 
 #### Habilitar as extensões do PHP
